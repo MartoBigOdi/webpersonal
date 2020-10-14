@@ -1,3 +1,4 @@
 {
-    "eggHelper.serverPort": 64245
+    "eggHelper.serverPort": 64245,
+    "liveServer.settings.port": 5501
 }
