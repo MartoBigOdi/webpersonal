@@ -25,3 +25,4 @@ $message .= "Enviado el: " . date('d/m/Y', time());
 //Enviando el mensaje
 mail($destinatario, $asunto, $message, $header);
 header("Location:index.html");
+?>
